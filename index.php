@@ -2,8 +2,8 @@
 <html>
 <head>
     <title>COVID-19</title>
-    <?php include './links.php'; ?>
-    <?php include './style.php'; ?>
+    <?php include 'links.php'; ?>
+    <?php include 'style.php'; ?>
 
 </head>
 <body onload="fetch()">
